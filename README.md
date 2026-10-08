@@ -388,7 +388,7 @@ Key concepts: filter context, `CALCULATE()`, `DATEADD()`, `SAMEPERIODLASTYEAR()`
 ![Executive Overview](05_Images/V2/01_Executive_Overview.png)
 
 ### Customer Value & Retention
-![Customer Value and Retention](05_Images/V2/02_Customer_Value_Retention.png)
+![Customer Value and Retention](05_Images/V2/02_Customer_Value_&_Retention.png)
 
 ### Product Performance
 ![Product Performance](05_Images/V2/03_Product_Performance.png)
