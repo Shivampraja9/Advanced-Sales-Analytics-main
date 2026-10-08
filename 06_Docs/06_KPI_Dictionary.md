@@ -1,6 +1,6 @@
 # KPI Dictionary
 
-## 📌 Purpose
+##  Purpose
 
 This document defines the key metrics used throughout the **Advanced Sales Analytics V2** project.
 
@@ -10,7 +10,7 @@ Unless otherwise stated, metrics are evaluated within the current Power BI filte
 
 ---
 
-# 💰 Executive Performance KPIs
+#  Executive Performance KPIs
 
 ## Total Sales
 
@@ -81,7 +81,7 @@ Positive values indicate growth, while negative values indicate a decline.
 
 ---
 
-# 👥 Customer KPIs
+#  Customer KPIs
 
 ## Total Customers
 
@@ -150,7 +150,7 @@ How much revenue does the average order generate?
 
 ---
 
-# 🧑‍🤝‍🧑 RFM KPIs
+#  RFM KPIs
 
 RFM analysis evaluates customers using three dimensions:
 
@@ -236,7 +236,7 @@ RFM segmentation describes historical customer behavior and value. It is not a p
 
 ---
 
-# 📈 Cohort & Retention KPIs
+#  Cohort & Retention KPIs
 
 ## Cohort
 
@@ -286,7 +286,7 @@ A declining retention rate indicates that fewer customers from the original coho
 
 ---
 
-# 📊 Growth & Time-Series KPIs
+#  Growth & Time-Series KPIs
 
 ## MoM Sales Growth
 
@@ -375,7 +375,7 @@ The index helps distinguish whether revenue changes are primarily associated wit
 
 ---
 
-# 🏷️ Product & Profitability KPIs
+#  Product & Profitability KPIs
 
 ## Category Sales
 
@@ -430,7 +430,7 @@ The project uses discount analysis to identify relationships between higher disc
 
 ---
 
-# ⚠️ Risk & Opportunity KPIs
+#  Risk & Opportunity KPIs
 
 ## Revenue At Risk
 
@@ -472,7 +472,7 @@ This represents a potential business opportunity based on customer behavior. It 
 
 ---
 
-# 📅 Data Completeness
+#  Data Completeness
 
 ## Minimum Available Date
 
@@ -502,7 +502,7 @@ This is particularly important when interpreting fiscal-year comparisons and gro
 
 ---
 
-# 📐 KPI Interpretation Principles
+#  KPI Interpretation Principles
 
 The following principles apply throughout the project:
 
